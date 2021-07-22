@@ -52,6 +52,7 @@
     .testimonials {
         grid-column: 1/2;
         height: 100%;
+        margin-bottom: 35px;
     }
     .testimonials span {
         flex-flow: column;
@@ -62,5 +63,10 @@
     }
     .testimonials span p {
         padding: 0px 25px;
+    }
+
+    .clients {
+        width: 40%;
+        border-radius: 50%;
     }
 }
