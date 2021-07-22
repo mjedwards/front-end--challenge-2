@@ -51,6 +51,7 @@
 @media (max-width: 375px) {
     .testimonials {
         grid-column: 1/2;
+        height: 100%;
     }
     .testimonials span {
         flex-flow: column;
